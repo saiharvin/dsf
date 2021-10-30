@@ -5,7 +5,7 @@ Hello Hackers! You have done a pretty amazing job 🔥 if you have come this far
 ## Flag insert here (replace the periods with your flag) : commit{nevergonnagiveYouup}
 # Commit The Flag Winner is 🎉: 
 
-<p><a href="https://github.com/AkshitMehra1" target='_blank'><img src=https://avatars.githubusercontent.com/u/38882613?v=4" alt="Akshit Mehra" width="35" height="35"><a> Akshit Mehra aka ILAM </p>
+<h2><a href="https://github.com/AkshitMehra1" target='_blank'><img src=https://avatars.githubusercontent.com/u/38882613?v=4" alt="Akshit Mehra" width="100" height="100"><a> Akshit Mehra aka ILAM </h2>
 
 
 
